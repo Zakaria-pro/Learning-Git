@@ -3,3 +3,5 @@
 ## Easy or Hard
 
 ## Different Branches
+
+## Added in branch beta
